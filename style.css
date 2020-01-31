@@ -38,10 +38,10 @@ body{
 }
 
 
-.panel1 { background-image:url(/assets/images/raisely.jpg); }
-.panel2 { background-image:url(/assets/images/remote.jpg); }
-.panel3 { background-image:url(/assets/images/humanitarian.jpg); }
-.panel4 { background-image:url(/assets/images/career.jpg); }
+.panel1 { background-image:url(raisely.jpg); }
+.panel2 { background-image:url(remote.jpg); }
+.panel3 { background-image:url(humanitarian.jpg); }
+.panel4 { background-image:url(career.jpg); }
 
 
 .panel > * {
